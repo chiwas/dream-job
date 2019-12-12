@@ -7,7 +7,8 @@
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
-        "#222222"
+        "#222222",
+        "#777777"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -58,7 +59,7 @@
             "overlayOpacity": 0.5
           },
           "title": "",
-          "text": "\"Posao iz snova\" je ogranak ruske agencije <b><a href=\"https://my-work.pro/index.html\" class=\"text-danger\" target=\"_blank\">\"Моя Работа\"</a> </b>u Srbiji. Agencija uspešno posluje već 5 godina sa građanima <a href=\"https://sr.wikipedia.org/wiki/%D0%97%D0%B0%D1%98%D0%B5%D0%B4%D0%BD%D0%B8%D1%86%D0%B0_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%BD%D0%B8%D1%85_%D0%B4%D1%80%D0%B6%D0%B0%D0%B2%D0%B0\" target=\"_blank\" class=\"text-danger\">ZND</a>. Sedište Agencije <a href=\"https://my-work.pro/index.html\" target=\"_blank\" class=\"text-danger\"><b>\"Моя Работа\"</b></a> je u Izraelu. Nudimo svojim klijentima usluge <b>bez plaćanja unapred</b>. <b>Usluge naših pravnika u Izraelu</b> plaćate isključivo od zarađenog novca!&nbsp;<b>Zapošljavanje je besplatno.&nbsp;</b><br>Za neke poslove obavezno je znanje Engleskog ili Ruskog jezika.",
+          "text": "\"MojPosao\" je ogranak ruske agencije <b><a href=\"https://my-work.pro/index.html\" class=\"text-danger\" target=\"_blank\">\"Моя Работа\"</a> </b>u Srbiji. Agencija uspešno posluje već 5 godina sa građanima <a href=\"https://sr.wikipedia.org/wiki/%D0%97%D0%B0%D1%98%D0%B5%D0%B4%D0%BD%D0%B8%D1%86%D0%B0_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%BD%D0%B8%D1%85_%D0%B4%D1%80%D0%B6%D0%B0%D0%B2%D0%B0\" target=\"_blank\" class=\"text-danger\">ZND</a>. Sedište Agencije <a href=\"https://my-work.pro/index.html\" target=\"_blank\" class=\"text-danger\"><b>\"Моя Работа\"</b></a> je u Izraelu. Nudimo svojim klijentima usluge <b>bez plaćanja unapred</b>. <b>Usluge naših pravnika u Izraelu</b> plaćate isključivo od zarađenog novca!&nbsp;<b>Zapošljavanje je besplatno.&nbsp;</b><br>Za neke poslove obavezno je znanje Engleskog ili Ruskog jezika.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> ",
           "_tags": [
             "Theme"
@@ -284,7 +285,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Zašto da izaberete nas<br><br>",
-          "text": "Mi obezbeđujemo dokumente za rad u Izraelu sa kojima možete legalno boraviti u Izraelu 1-2 godine ili duže, dobiti osiguranje i slobodno se kretati u državi. \n<br>\n<br>Višegodišnje praktično iskustvo pravnika agencije \"Моя работа\" omogućava da u najkraćem vremenskom roku dobijete sve neophodne dokumente za legalan rad u Izraelu. \n<br>\n<br>Pružamo pravnu podršku tokom celog perioda saradnje sa vama.\n<br>\n<br>Dočekujemo vas na aerodromu u Izraelu i prevozimo do mesta boravka.\n<br>\n<br>Nema skrivenih doplaćivanja. Posao dobijate besplatno!&nbsp;<br>\n<br>Dobri uslovi smeštaja i hrane.\n<br>\n<br>Plaćanje usluga na rate od plate!&nbsp;<br><br>Individualno biranje slobodnih radnih mesta u Izraelu u skladu sa vašim kriterijumima.\n<br>\n<br>Prosečna zarada za sve radnike je 2000$ garantovano.\n<br>\n<br>100% garancija formalnog i legalnog zaposlenja od agencije \"Моя работа\" koja je u direktnoj saradnji sa poslodavcima.&nbsp;<br>\n<br>\t\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>",
+          "text": "Mi obezbeđujemo dokumente za rad u Izraelu sa kojima možete legalno boraviti u Izraelu 1-2 godine ili duže, dobiti osiguranje i slobodno se kretati u državi. \n<br>\n<br>Višegodišnje praktično iskustvo pravnika agencije \"Моя работа\" omogućava da u najkraćem vremenskom roku dobijete sve neophodne dokumente za legalan rad u Izraelu. \n<br>\n<br>Pružamo pravnu podršku tokom celog perioda saradnje sa vama.\n<br>\n<br>Dočekujemo vas na aerodromu u Izraelu i prevozimo do mesta boravka.\n<br>\n<br>Nema dodatnih plaćanja. Posao dobijate besplatno!&nbsp;<br>\n<br>Dobri uslovi smeštaja i hrane.\n<br>\n<br>Plaćanje usluga na rate od zarađenog novca!&nbsp;<br><br>Individualno biranje slobodnih radnih mesta u Izraelu u skladu sa vašim kriterijumima.\n<br>\n<br>Prosečna zarada za sve radnike je 2000$ garantovano.\n<br>\n<br>100% garancija formalnog i legalnog zaposlenja od agencije \"Моя работа\" koja je u direktnoj saradnji sa poslodavcima.&nbsp;<br>\n<br>\t\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -339,7 +340,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:055 966 2178\" aria-expanded=\"false\">Israel office<br>055 966 2178</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" aria-expanded=\"false\">WhatsApp<br>+38063-871-8007</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"poslovi.html\" target=\"_blank\">Poslovi:<br>trenutna ponuda</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:055 966 2178\" aria-expanded=\"false\">Israel office<br>055 966 2178</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" aria-expanded=\"false\">WhatsApp<br>+38063-871-8007</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"poslovi.html\" target=\"_blank\">Poslovi:<br>trenutna ponuda</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -351,7 +352,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Posao iz snova <br></a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MojPosao&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -406,7 +407,7 @@
             }
           },
           "title1": "Poslovi za svakoga",
-          "caption1": "",
+          "caption1": "<i><b>spremači/ce, čistači/ce, perači sudova, rad u autoperionicama, pomoćni radnici&nbsp;</b></i><br><br>Poslovi za muškarce, žene i bračne parove(moguće zajedničko stanovanje)<br><br>Велики број радних сати, пристојна плата, издаје се посебна униформа, превоз до радног места.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -429,7 +430,7 @@
             }
           },
           "title2": "Građevinski poslovi",
-          "caption2": "",
+          "caption2": "<i><b>keramičari, moleri, tesari, armirači, hidroizolateri, termoizolateri, strugari, kamenorezci, varioci, fasaderi, monteri skela...</b></i><br><br>Veliki broj građevinskih radova. Radnici koji pokažu dobre rezultate mogu dobiti <b>stalno zaposlenje</b>.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -451,8 +452,8 @@
               "size": 0
             }
           },
-          "title3": "Posao u Fabrikama",
-          "caption3": "",
+          "title3": "Posao u Industrijama",
+          "caption3": "<b><i>električari, glodači, tokari, brusači, alatničari, varioci, mehaničari...</i></b><br><br>Visoke plate, udobni životni uslovi i komforan smeštaj, <b>dodatni honorarni poslovi.</b><br>Raspodela dužnosti.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -475,7 +476,7 @@
             }
           },
           "title4": "Poslovi u hotelima i restoranima",
-          "caption4": "",
+          "caption4": "<b><i>konobari, kuvari (glavni i pomoćni), sobari/ce, čistači/ce, serviseri bazena i bazenske opreme</i></b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -498,7 +499,7 @@
             }
           },
           "title5": "Supermarketi i skladišta",
-          "caption5": "",
+          "caption5": "<b><i>raspakivanje, sortiranje i izlaganja robe, pakeri, utovarivači, vozači viljuškara</i></b><br><br><br>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -527,7 +528,14 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-1c"
+          "_anchor": "features1-1c",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "text-align": "left",
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
@@ -800,7 +808,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<b>Copyright (c) 2018</b>&nbsp;<i>dream-job.com</i>",
+          "text": "<b>Copyright (c) 2018</b>&nbsp;m<i>ywork.rs</i>",
           "_tags": [
             "Theme"
           ],
@@ -910,7 +918,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:055 966 2178\" aria-expanded=\"false\">Israel office<br>055 966 2178</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" aria-expanded=\"false\">WhatsApp<br>+38063-871-8007</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"poslovi.html\" target=\"_blank\">Poslovi:<br>trenutna ponuda</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:055 966 2178\" aria-expanded=\"false\">Israel office<br>055 966 2178</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" aria-expanded=\"false\">WhatsApp<br>+38063-871-8007</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"poslovi.html\" target=\"_blank\">Poslovi:<br>trenutna ponuda</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -922,7 +930,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Posao iz snova <br></a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MojPosao&nbsp;<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -942,7 +950,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<b>Copyright (c) 2018</b>&nbsp;<i>dream-job.com</i>",
+          "text": "<b>Copyright (c) 2018</b>&nbsp;m<i>ywork.rs</i>",
           "_tags": [
             "Theme"
           ],
