@@ -340,7 +340,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:055 966 2178\" aria-expanded=\"false\">Israel office<br>055 966 2178</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" aria-expanded=\"false\">WhatsApp<br>+38063-871-8007</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"poslovi.html\" target=\"_blank\">Poslovi:<br>trenutna ponuda</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:055 966 2178\" aria-expanded=\"false\">Israel office<br>055 966 2178</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" aria-expanded=\"false\">WhatsApp<br>+38161-6510-781</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"viber://chat?number=+381616510781\" aria-expanded=\"false\">Viber<br>+38161-6510-781</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"poslovi.html\" target=\"_blank\">Poslovi:<br>trenutna ponuda</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -476,7 +476,7 @@
             }
           },
           "title4": "Poslovi u hotelima i restoranima",
-          "caption4": "<b><i>konobari, kuvari (glavni i pomoćni), sobari/ce, čistači/ce, serviseri bazena i bazenske opreme</i></b>",
+          "caption4": "<b><i>konobari, kuvari (glavni i pomoćni), sobari/ce, čistači/ce, serviseri bazena i bazenske opreme</i></b><br><br>Udobni životni uslovi, zanimljiv posao, <b>za muškarce i žene</b>, može bez znanja jezika.&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -499,7 +499,7 @@
             }
           },
           "title5": "Supermarketi i skladišta",
-          "caption5": "<b><i>raspakivanje, sortiranje i izlaganja robe, pakeri, utovarivači, vozači viljuškara</i></b><br><br><br>",
+          "caption5": "<b><i>raspakivanje, sortiranje i izlaganja robe, pakeri, utovarivači, vozači viljuškara</i></b><br><br>Postoji mogućnost (po izboru) prekovremenog dodatno plaćenog rada, ishrana (2 obroka), kupovina proizvoda za radnike supermarketa sa dodatnim popustom.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -522,7 +522,7 @@
             }
           },
           "title6": "Pansioni i starački domovi",
-          "caption6": "",
+          "caption6": "<b><i>rad sa ljudima (socijalni radnici), kuvari, pomoćni kuvari, medicinsko osoblje...&nbsp;</i></b><br><br><b>Smeštaj na teritoriji ustanove (po izboru)</b><br>Mogućnost prekovremenog rada ili dadatnih honorarnih poslova. <b>Tri obroka dnevno.</b><br><br><b><br></b>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -775,7 +775,7 @@
             }
           },
           "text1": "<b>ADRESA:</b><br><strong><br></strong>Моя Работа&nbsp;<br>Dr Fogel Herman St 7, Petah Tikva, Israel<br><b><br></b><b>&nbsp;</b><br><b>&nbsp;</b><br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>KONTAKT:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" class=\"text-danger\"><b>WhatsApp</b></a>:  +38063-871-8007 (Konsultant iz Srbije)</li><li><br></li><li>\n</li><li>\n</li><li>Russian Federation: <a href=\"tel:+7958-58-15-119\" class=\"text-danger\"><b>+7958-58-15-119</b></a>\n</li><li>(Konsultant iz Rusije)</li><li><br></li><li>\n</li><li>\n</li><li>Israel: <b><a href=\"tel:055-966-21-78\" class=\"text-danger\">055-966-21-78</a>\n</b></li><li>(direktna linija sa Izraelom)</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>KONTAKT:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><b><a href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" class=\"text-danger\">WhatsApp</a>, <a href=\"viber://chat?number=+381616510781\" class=\"text-danger\">Viber</a>: +38161-6510-781<br></b>&nbsp;(Konsultant iz Srbije)</li><li><br></li><li>\n</li><li>\n</li><li>Russian Federation: <a href=\"tel:+7958-58-15-119\" class=\"text-danger\"><b>+7958-58-15-119</b></a>\n</li><li>(Konsultant iz Rusije)</li><li><br></li><li>\n</li><li>\n</li><li>Israel: <b><a href=\"tel:055-966-21-78\" class=\"text-danger\">055-966-21-78</a>\n</b></li><li>(direktna linija sa Izraelom)</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -918,7 +918,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:055 966 2178\" aria-expanded=\"false\">Israel office<br>055 966 2178</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" aria-expanded=\"false\">WhatsApp<br>+38063-871-8007</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"poslovi.html\" target=\"_blank\">Poslovi:<br>trenutna ponuda</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:055 966 2178\" aria-expanded=\"false\">Israel office<br>055 966 2178</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" aria-expanded=\"false\">WhatsApp<br>+38161-6510-781</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"viber://chat?number=+381616510781\" aria-expanded=\"false\">Viber<br>+38161-6510-781</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"poslovi.html\" target=\"_blank\">Poslovi:<br>trenutna ponuda</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1136,7 +1136,7 @@
             }
           },
           "text1": "<b>ADRESA:</b><br><strong><br></strong>Моя Работа&nbsp;<br>Dr Fogel Herman St 7, Petah Tikva, Israel<br><b><br></b><b>&nbsp;</b><br><b>&nbsp;</b><br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>KONTAKT:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" class=\"text-danger\"><b>WhatsApp</b></a>:  +38063-871-8007 (Konsultant iz Srbije)</li><li><br></li><li>\n</li><li>\n</li><li>Russian Federation: <a href=\"tel:+7958-58-15-119\" class=\"text-danger\"><b>+7958-58-15-119</b></a>\n</li><li>(Konsultant iz Rusije)</li><li><br></li><li>\n</li><li>\n</li><li>Israel: <b><a href=\"tel:055-966-21-78\" class=\"text-danger\">055-966-21-78</a>\n</b></li><li>(direktna linija sa Izraelom)</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>KONTAKT:</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><b><a href=\"https://api.whatsapp.com/send?phone=380638718007&amp;lang=sr\" target=\"_blank\" class=\"text-danger\">WhatsApp</a>, <a href=\"viber://chat?number=+381616510781\" class=\"text-danger\">Viber</a>: +38161-6510-781<br></b>&nbsp;(Konsultant iz Srbije)</li><li><br></li><li>\n</li><li>\n</li><li>Russian Federation: <a href=\"tel:+7958-58-15-119\" class=\"text-danger\"><b>+7958-58-15-119</b></a>\n</li><li>(Konsultant iz Rusije)</li><li><br></li><li>\n</li><li>\n</li><li>Israel: <b><a href=\"tel:055-966-21-78\" class=\"text-danger\">055-966-21-78</a>\n</b></li><li>(direktna linija sa Izraelom)</li></ul>",
           "_tags": [
             "Theme"
           ],
